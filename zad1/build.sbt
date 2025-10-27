@@ -1,10 +1,10 @@
-val scala3Version = "3.7.3"
+val scala3Version = "3.3.7"
 
 lazy val root = project
   .in(file("."))
   .settings(
+    assembly / mainClass := Some("com.MinimalApplication"),
     name := "zad1",
-    version := "0.1.0-SNAPSHOT",
 
     scalaVersion := scala3Version,
 
@@ -12,8 +12,15 @@ lazy val root = project
       "org.scalameta" %% "munit" % "1.0.0" % Test,
       "com.lihaoyi" %% "cask" % "0.11.3"
     ),
-
     mainClass := Some("app.MinimalApplication"),
 
-    run / fork := false
+    assembly / mainClass := Some("app.MinimalApplication"),
+    assembly / assemblyJarName := "app-assembly.jar",
+    assembly / test := {},
+
+    assembly / assemblyMergeStrategy := {
+      case PathList("reference.conf") => MergeStrategy.concat
+      case PathList("META-INF", "MANIFEST.MF") => MergeStrategy.discard
+      case _ => MergeStrategy.first
+    }
   )
