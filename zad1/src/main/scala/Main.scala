@@ -11,18 +11,26 @@ object MinimalApplication extends cask.MainRoutes:
   def isSorted(method: String, arr: List[Int]) = {
     var isSortedCorrectly: Boolean = false
     if method == "asc" then
-      isSortedCorrectly =
-        arr.zip(arr.tail).forall { case (previous, next) => previous <= next }
-    else if method == "desc" then
-      isSortedCorrectly =
-        arr.zip(arr.tail).forall { case (previous, next) => previous >= next }
+      for element <- arr.sliding(2) do {
+        val previous = element(0)
+        val next = element(1)
+        if previous > next then isSortedCorrectly = false
+      }
+      isSortedCorrectly = true
     else isSortedCorrectly = false
-    print(isSortedCorrectly)
+
     ujson.Obj(
       "method" -> method,
       "providedArray" -> arr,
       "isSorted" -> isSortedCorrectly
     )
+  }
+
+  @cask.postJson("/sum")
+  def sumRows(list1: List[Int], list2: List[Int], list3: List[Int]) = {
+    val list1_2 = list1.zip(list2).map((item1, item2) => item1 + item2)
+    val list1_2_3 = list1_2.zip(list3).map((item1, item2) => item1 + item2)
+    list1_2_3
   }
 
   initialize()
