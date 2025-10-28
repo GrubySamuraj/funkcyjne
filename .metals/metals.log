@@ -791,3 +791,8 @@ object MinimalApplication extends cask.MainRoutes:
 2025.10.27 21:59:14 INFO  Exiting server
 2025.10.28 16:41:52 INFO  Started: Metals version 1.6.3 in folders '/home/grubysamuraj/studia/funkcyjne/funkcyjne' for client Visual Studio Code 1.88.1.
 2025.10.28 16:41:54 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.10.28 23:27:45 INFO  Started: Metals version 1.6.3 in folders 'C:\Users\jakub\Desktop\funkcyjne' for client Visual Studio Code 1.105.1.
+2025.10.28 23:27:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.10.28 23:27:49 INFO  no build target found for C:\Users\jakub\Desktop\funkcyjne\zad1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.28 23:27:50 INFO  no build target found for C:\Users\jakub\Desktop\funkcyjne\zad1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.28 23:27:50 INFO  no build target found for C:\Users\jakub\Desktop\funkcyjne\zad1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6

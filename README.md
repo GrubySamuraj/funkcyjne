@@ -16,6 +16,9 @@ https://github.com/user-attachments/assets/fc6055f9-2d82-4dcc-9f1e-007df80a253f
 
 https://github.com/user-attachments/assets/3b534671-02be-4fdf-bdbc-b72ad007dd28
 
-:x: 5.0 Zaimplementuj funkcję, która policzy kwadrat liczb z dwóch list (po wierszach) za pomocą funkcji map oraz funkcji anonimowej.
+:white_check_mark: 5.0 Zaimplementuj funkcję, która policzy kwadrat liczb z dwóch list (po wierszach) za pomocą funkcji map oraz funkcji anonimowej.
+[Link do commita 5](https://github.com/GrubySamuraj/funkcyjne/commit/9702615fb22a9aea4851a21547d5dfd2d3e1eaae)
+
+https://github.com/user-attachments/assets/346d678a-c807-456e-a8b5-6630d2ee84fb
 
 Kod: [Link do zadania 1](https://github.com/GrubySamuraj/funkcyjne/tree/master/zad1)
