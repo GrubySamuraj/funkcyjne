@@ -5,8 +5,9 @@ object MinimalApplication extends cask.MainRoutes:
   override def port: Int = 8080
 
   @cask.get("/")
-  def hello() =
-    "Hello World! 123"
+  def helloWorld = {
+    "Hello world!"
+  }
 
   @cask.postJson("/isSorted")
   def isSorted(method: String, arr: List[Int]) = {
@@ -59,6 +60,12 @@ object MinimalApplication extends cask.MainRoutes:
     }
 
     newListBuffer
+  }
+
+  @cask.postJson("squares")
+  def makeSquares(list1:List[Int], list2:List[Int]) = {
+    var list3 = list1.zip(list2).map((item1,item2)=> item1**2+item2**2)
+    list3
   }
 
   initialize()
