@@ -22,3 +22,19 @@ https://github.com/user-attachments/assets/3b534671-02be-4fdf-bdbc-b72ad007dd28
 https://github.com/user-attachments/assets/346d678a-c807-456e-a8b5-6630d2ee84fb
 
 Kod: [Link do zadania 1](https://github.com/GrubySamuraj/funkcyjne/tree/master/zad1)
+
+**Zadanie 2** Docker
+
+:white_check_mark: Stwórz obraz dockerowy, który bazuje na najnowszej wersji Ubuntu LTS oraz który zawiera paczki:
+
+- Java 8
+- Python 3
+- Scala (dowolna wersja)
+- sbt
+- vim
+
+Kod: [Link do zadania 2](https://github.com/GrubySamuraj/funkcyjne/tree/master/zad2)
+
+https://github.com/user-attachments/assets/f02f8b89-b778-42fe-aa45-c6e64a94e653
+
+Kod: [Link do docker hub](https://hub.docker.com/layers/grubysamuraj/zad2-funkcyjne/latest/images/sha256-4c66e7c1a84afbcee03d282b428d61616b18c286f743e3d9efb9396d2af06d4f)
