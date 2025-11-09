@@ -1,4 +1,4 @@
-**Zadanie 1** Docker
+# Zadanie 1
 
 :white_check_mark: 3.0 Zaimplementuj funkcję isSorted, która sprawdza czy dana funkcja jest posortowana zgodnie z podaną funkcją porównawczą [Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/5c6f9839a9f93fad7dc3faea70bae5ab31c8f408)
 
@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/346d678a-c807-456e-a8b5-6630d2ee84fb
 
 Kod: [Link do zadania 1](https://github.com/GrubySamuraj/funkcyjne/tree/master/zad1)
 
-**Zadanie 2** Docker
+# Zadanie 2 Docker
 
 :white_check_mark: Stwórz obraz dockerowy, który bazuje na najnowszej wersji Ubuntu LTS oraz który zawiera paczki:
 
