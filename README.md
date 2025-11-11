@@ -44,23 +44,15 @@ Kod: [Link do docker hub](https://hub.docker.com/layers/grubysamuraj/zad2-funkcy
 :white_check_mark: 3.0 zwrócą wynik funkcji tail, która usuwa pierwszy element z listy
 (parameter); należy rozważyć przypadek Nil jako parametr [Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/489c19c0f83c3aadd08a06490ac76e35265f29ab)
 
-https://github.com/user-attachments/assets/a97547d8-0146-45be-906a-7b5504a47d0f
-
 :white_check_mark: 3.5 zwróci wynik funkcji drop, która usuwa n elementów z listy
 dwukierunkowej [Link do commita2 ](https://github.com/GrubySamuraj/funkcyjne/commit/489c19c0f83c3aadd08a06490ac76e35265f29ab)
-
-https://github.com/user-attachments/assets/82e4dda6-9ed6-4a02-8c27-0f73a94f603e
 
 :x: 4.0 zwróci wynik funkcji dropWhile, która usuwa n elementów z listy
 dwukierunkowej, które spełniają warunek funkcji (parametr); należy
 wykorzystać podejście pattern match
 
-https://github.com/user-attachments/assets/fc6055f9-2d82-4dcc-9f1e-007df80a253f
-
 :x: 4.5 zwróci wynik funkcji foldLeft wykorzystując do tego companion
 object
-
-https://github.com/user-attachments/assets/3b534671-02be-4fdf-bdbc-b72ad007dd28
 
 :x: 5.0 zwróci wynik funkcji concatenate na dwóch listach (parametry),
 która zwraca jedną listę
