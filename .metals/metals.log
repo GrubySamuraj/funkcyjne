@@ -2145,3 +2145,44 @@ object MinimalApplication extends cask.MainRoutes:
 2025.11.20 17:03:23 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
 2025.11.20 17:03:23 INFO  time: compiled root in 0.66s
 2025.11.20 17:03:24 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:03:57 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:06 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:09 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:10 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+Nov 20, 2025 5:04:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 163
+Nov 20, 2025 5:04:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 160
+2025.11.20 17:04:11 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:11 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:12 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:13 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:14 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:15 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:57: error: [dialect scala213] ; expected but : found
+object MinimalApplication extends cask.MainRoutes:
+                                                 ^
+2025.11.20 17:04:15 INFO  compiling root (1 scala source)
+2025.11.20 17:04:15 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:15 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:15 INFO  time: compiled root in 0.46s
+2025.11.20 17:04:15 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:15 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:15 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:24 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:25 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:27 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:29 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:30 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:35 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:35 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:36 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:37 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:66: error: [dialect scala213] then expected but for found
+      for element <- arr.sliding(2) do {
+      ^
+2025.11.20 17:04:37 INFO  compiling root (1 scala source)
+2025.11.20 17:04:37 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:39 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:66: error: [dialect scala213] then expected but for found
+      for element <- arr.sliding(2) do {
+      ^
+2025.11.20 17:04:39 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:04:40 INFO  time: compiled root in 3.73s
