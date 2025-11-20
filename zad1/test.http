@@ -122,3 +122,19 @@ Content-Type: application/json
   "appendIndex": 100,
   "elementToAdd": 99
 }
+### Test: Próba wstawienia elementu na indeks spoza zakresu
+
+POST http://localhost:8080/makeVarianceOptional
+Content-Type: application/json
+
+{
+  "list": [1, 2, 3]
+}
+### Test: Próba wstawienia elementu na indeks spoza zakresu
+
+POST http://localhost:8080/makeVarianceOptional
+Content-Type: application/json
+
+{
+  "list": []
+}

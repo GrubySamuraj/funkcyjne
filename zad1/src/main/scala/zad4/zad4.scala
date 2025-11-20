@@ -1,6 +1,6 @@
 package app.zad4
 import scala.collection.mutable.ListBuffer
-
+import scala.math.pow
 object Zadanie4Controller extends cask.Routes {
   @cask.postJson("/appendOptional")
   def appendEndpoint(
@@ -31,6 +31,27 @@ object Zadanie4Controller extends cask.Routes {
       newListBuffer.append(elementToAdd)
     }
     Some(newListBuffer)
+  }
+  @cask.postJson("/makeVarianceOptional")
+  def makeVariance(
+      list: List[Int]
+  ): ujson.Value = {
+    var mean = this.makeMean(list)
+    mean match
+      case Some(mean) => {
+        list
+          .map(element => pow((element - mean).toDouble, 2))
+          .sum / (list.length - 1)
+      }
+      case None => return ujson.Str("Ni ma elementów w liście")
+
+  }
+
+  def makeMean(list: List[Int]): Option[Float] = {
+    if (list.length == 0) {
+      return None
+    }
+    Some((list.sum.toFloat / list.length))
   }
 
   initialize()
