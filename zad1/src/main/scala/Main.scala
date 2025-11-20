@@ -1,6 +1,5 @@
 package app
 import scala.collection.mutable.ListBuffer
-<<<<<<< HEAD
 
 
 class Node[T](var data: T, var prev: Node[T] = null, var next: Node[T] = null)
@@ -56,22 +55,10 @@ class DoublyLinkedList[T](elements: List[T]) {
 }
 
 object MinimalApplication extends cask.MainRoutes:
-=======
-import app.zad4.Zadanie4Controller
-object MinimalApplication extends cask.MainRoutes {
->>>>>>> b0eeeda (zad 4 3.0 added)
   override def host: String = "0.0.0.0"
   override def port: Int = 8080
   override def allRoutes = Seq(this, Zadanie4Controller)
 
-<<<<<<< HEAD
-=======
-  @cask.get("/")
-  def helloWorld() = {
-    "Hello world!"
-  }
-
->>>>>>> b0eeeda (zad 4 3.0 added)
   @cask.postJson("/isSorted")
   def isSorted(method: String, arr: List[Int]) = {
     var isSortedCorrectly: Boolean = false
@@ -127,11 +114,7 @@ object MinimalApplication extends cask.MainRoutes {
 
   @cask.postJson("squares")
   def makeSquares(list1:List[Int], list2:List[Int]) = {
-<<<<<<< HEAD
     var list3 = list1.zip(list2).map((item1, item2)=> item1* item1 + item2*item2)
-=======
-    var list3 = list1.zip(list2).map((item1,item2)=> item1*item1+item2*item2)
->>>>>>> b0eeeda (zad 4 3.0 added)
     list3
   }
 

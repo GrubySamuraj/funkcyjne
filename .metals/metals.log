@@ -2116,3 +2116,32 @@ object MinimalApplication extends cask.MainRoutes:
 =======
 2025.11.20 11:43:39 INFO  Shut down connection with build server.
 >>>>>>> b0eeeda (zad 4 3.0 added)
+2025.11.20 17:02:32 INFO  Started: Metals version 1.6.3 in folders '/home/grubysamuraj/studia/funkcyjne/funkcyjne' for client Visual Studio Code 1.105.1.
+2025.11.20 17:02:36 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.20 17:02:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 17:02:36 INFO  Attempting to connect to the build server...
+2025.11.20 17:02:36 INFO  No running Bloop server found, starting one.
+2025.11.20 17:02:38 INFO  Starting compilation server
+Nov 20, 2025 5:02:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.11.20 17:02:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/grubysamuraj/studia/funkcyjne/funkcyjne/.metals/bsp.trace.json or /home/grubysamuraj/.cache/metals/bsp.trace.json
+2025.11.20 17:02:39 INFO  time: Connected to build server in 3.03s
+2025.11.20 17:02:39 INFO  Connected to Build server: Bloop v2.0.16
+2025.11.20 17:02:39 INFO  time: Imported build in 0.14s
+2025.11.20 17:02:41 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk/src.zip, /usr/lib/jvm/java-21-openjdk/lib/src.zip. Java symbols will not be available.
+2025.11.20 17:02:44 INFO  time: indexed workspace in 4.38s
+2025.11.20 17:02:44 INFO  compiling root (1 scala source)
+2025.11.20 17:02:48 INFO  time: compiled root in 3.42s
+Nov 20, 2025 5:03:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.20 17:03:09 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:03:15 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:03:19 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:03:22 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:03:23 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:57: error: [dialect scala213] ; expected but : found
+object MinimalApplication extends cask.MainRoutes:
+                                                 ^
+2025.11.20 17:03:23 INFO  compiling root (1 scala source)
+2025.11.20 17:03:23 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
+2025.11.20 17:03:23 INFO  time: compiled root in 0.66s
+2025.11.20 17:03:24 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
