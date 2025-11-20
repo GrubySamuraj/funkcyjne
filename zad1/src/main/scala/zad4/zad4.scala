@@ -93,5 +93,19 @@ object Zadanie4Controller extends cask.Routes {
     a.flatMap(itemA => b.map(itemB => f(itemA, itemB)))
   }
 
+  @cask.postJson("/mean")
+  def calcAverageController(list: List[Int]): ujson.Value = {
+    val result = calcAverage(list)
+    result match
+      case Left(value)  => ujson.Str(value)
+      case Right(value) => ujson.Arr(value)
+  }
+  def calcAverage(list: List[Int]): Either[String, Float] = {
+    if (list.length == 0) {
+      Left("Lista nie ma elementów")
+    } else {
+      Right((list.sum.toFloat / list.length).toFloat)
+    }
+  }
   initialize()
 }
