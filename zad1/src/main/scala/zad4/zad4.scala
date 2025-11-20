@@ -2,22 +2,23 @@ package app.zad4
 import scala.collection.mutable.ListBuffer
 
 object Zadanie4Controller extends cask.Routes {
-  @cask.post("/appendOptional")
+  @cask.postJson("/appendOptional")
   def appendEndpoint(
       list: List[Int],
       appendIndex: Int,
       elementToAdd: Int
   ): ujson.Value = {
     var result = this.append(list, appendIndex, elementToAdd)
-     result match
-        case Some(result)=> ujson.Arr.from(result)
-        case None => ujson.Str("Nic")
+    result match
+      case Some(result) => ujson.Arr.from(result)
+      case None         => ujson.Str("Nic")
   }
   def append(
       list: List[Int],
       appendIndex: Int,
       elementToAdd: Int
   ): Option[ListBuffer[Int]] = {
+    if (appendIndex < 0 || appendIndex > list.length) return None
     val newListBuffer = ListBuffer[Int]()
     for ((element, index) <- list.zipWithIndex) {
       if (index == appendIndex) {
@@ -31,4 +32,6 @@ object Zadanie4Controller extends cask.Routes {
     }
     Some(newListBuffer)
   }
+
+  initialize()
 }

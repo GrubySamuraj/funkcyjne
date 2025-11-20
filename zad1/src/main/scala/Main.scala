@@ -17,7 +17,7 @@ class DoublyLinkedList[T](elements: List[T]) {
       newNode.prev = tailValue
       tailValue = newNode
     }
-    numOfElements+=1
+    numOfElements += 1
   }
 
   def toList(): List[T] = {
@@ -43,18 +43,18 @@ class DoublyLinkedList[T](elements: List[T]) {
     var current = head
     var i = 0
     var returned = List[T]()
-    while(current != null && i < n){
+    while (current != null && i < n) {
       returned = returned :+ current.data
       current = current.next
       if (head != null) head.prev = null
-      i+=1
-      numOfElements-=1
+      i += 1
+      numOfElements -= 1
     }
     returned
   }
 }
 
-object MinimalApplication extends cask.MainRoutes{
+object MinimalApplication extends cask.MainRoutes {
   override def host: String = "0.0.0.0"
   override def port: Int = 8080
   override def allRoutes = Seq(this, Zadanie4Controller)
@@ -113,18 +113,19 @@ object MinimalApplication extends cask.MainRoutes{
   }
 
   @cask.postJson("squares")
-  def makeSquares(list1:List[Int], list2:List[Int]) = {
-    var list3 = list1.zip(list2).map((item1, item2)=> item1* item1 + item2*item2)
+  def makeSquares(list1: List[Int], list2: List[Int]) = {
+    var list3 =
+      list1.zip(list2).map((item1, item2) => item1 * item1 + item2 * item2)
     list3
   }
 
   @cask.postJson("tail")
   def testTails(list: List[Int]) = {
     var doubleLinkedList = new DoublyLinkedList(list)
-    if (list == Nil){
+    if (list == Nil) {
       Nil
-    }
-    else{doubleLinkedList
+    } else {
+      doubleLinkedList
       doubleLinkedList.tail()
     }
   }
@@ -136,5 +137,4 @@ object MinimalApplication extends cask.MainRoutes{
   }
 
   initialize()
-  }
-
+}

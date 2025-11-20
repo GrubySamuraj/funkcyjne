@@ -101,3 +101,24 @@ Content-Type: application/json
 {
     "list":[1,2,3]
 }
+
+### Test 1: Wstawienie elementu w środku listy
+POST http://localhost:8080/appendOptional
+Content-Type: application/json
+
+{
+  "list": [1, 2, 3],
+  "appendIndex": 1,
+  "elementToAdd": 99
+}
+
+### Test: Próba wstawienia elementu na indeks spoza zakresu
+
+POST http://localhost:8080/appendOptional
+Content-Type: application/json
+
+{
+  "list": [1, 2, 3],
+  "appendIndex": 100,
+  "elementToAdd": 99
+}
