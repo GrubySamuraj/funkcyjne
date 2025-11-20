@@ -1,612 +1,131 @@
-2025.10.27 20:50:30 INFO  Started: Metals version 1.6.3 in folders '/home/grubysamuraj/studia/funkcyjne/funkcyjne' for client Visual Studio Code 1.88.1.
-2025.10.27 20:50:30 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
-2025.10.27 20:50:30 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-Oct 27, 2025 8:50:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 2
-Oct 27, 2025 8:50:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 3
-2025.10.27 20:50:34 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:34 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:34 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:34 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:34 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:34 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-Oct 27, 2025 8:50:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 6
-Oct 27, 2025 8:50:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 1
-2025.10.27 20:50:34 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
-2025.10.27 20:50:34 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:34 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-Oct 27, 2025 8:50:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 10
-2025.10.27 20:50:34 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-Oct 27, 2025 8:50:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 17
-Oct 27, 2025 8:50:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 19
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-Oct 27, 2025 8:50:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
-WARNING: Unmatched cancel notification for request id 39
-2025.10.27 20:50:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:40 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:45 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:45 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:45 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:45 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:45 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:45 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:45 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:46 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:48 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:48 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:48 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:49 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:49 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:49 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
-2025.10.27 20:50:49 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:48 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:53 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:53 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:53 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:54 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:53 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:54 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:53 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:58 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:59 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:59 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:59 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:59 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:59 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:59 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:50:59 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:00 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:00 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:00 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:00 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:01 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:00 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:01 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:01 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:01 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:01 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:01 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:01 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:01 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:02 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:02 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:02 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:02 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:02 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:02 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:02 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:03 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:02 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:03 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:03 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:04 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:03 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:03 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:03 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:04 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:04 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:04 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:04 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:04 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:04 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:06 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:06 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:06 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:06 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:06 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:06 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:07 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:07 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:07 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:07 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:07 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:08 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:07 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:10 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:10 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:10 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:10 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:10 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:10 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:10 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:11 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:11 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:11 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:11 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:11 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:11 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:11 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:12 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:12 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
-2025.10.27 20:51:11 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:13 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:16 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.11/scala-reflect-2.13.11.pom
-Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.pom
-Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.pom
-Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.11/scala-reflect-2.13.11.pom
-Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.pom
-Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.pom
-Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.pom
-Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11.pom
-Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11.pom
-Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.pom
-Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.pom
-Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.pom
-Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parallel-collections_2.13/1.0.4/scala-parallel-collections_2.13-1.0.4.pom
-Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.pom
-Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.12/scalap-2.13.12.pom
-Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.12.0/metaconfig-core_2.13-0.12.0.pom
-Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12.pom
-Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.12.0/metaconfig-typesafe-config_2.13-0.12.0.pom
-Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.12.0/metaconfig-typesafe-config_2.13-0.12.0.pom
-Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12.pom
-Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.12.0/metaconfig-core_2.13-0.12.0.pom
-Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.pom
-Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parallel-collections_2.13/1.0.4/scala-parallel-collections_2.13-1.0.4.pom
-Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.12/scalap-2.13.12.pom
-Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.pom
-Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.11.0/scala-collection-compat_2.13-2.11.0.pom
-Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
-Downloading https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.13/0.4.3/paiges-core_2.13-0.4.3.pom
-Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.12/scala-compiler-2.13.12.pom
-Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.12.0/metaconfig-pprint_2.13-0.12.0.pom
-Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.pom
-Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
-Downloaded https://repo1.maven.org/maven2/org/typelevel/paiges-core_2.13/0.4.3/paiges-core_2.13-0.4.3.pom
-Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.11.0/scala-collection-compat_2.13-2.11.0.pom
-Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.12.0/metaconfig-pprint_2.13-0.12.0.pom
-Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.12/scala-compiler-2.13.12.pom
-Downloading https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.pom
-Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.12/scala-reflect-2.13.12.pom
-Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.pom
-Downloading https://repo1.maven.org/maven2/org/jline/jline/3.22.0/jline-3.22.0.pom
-Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.pom
-Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.13/0.4.0/fansi_2.13-0.4.0.pom
-Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.pom
-Downloaded https://repo1.maven.org/maven2/org/jline/jline/3.22.0/jline-3.22.0.pom
-Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.pom
-Downloaded https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.pom
-Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.13/0.4.0/fansi_2.13-0.4.0.pom
-Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.12/scala-reflect-2.13.12.pom
-Downloading https://repo1.maven.org/maven2/org/jline/jline-parent/3.22.0/jline-parent-3.22.0.pom
-Downloading https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils-parent/4.12/java-diff-utils-parent-4.12.pom
-Downloaded https://repo1.maven.org/maven2/org/jline/jline-parent/3.22.0/jline-parent-3.22.0.pom
-Downloaded https://repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils-parent/4.12/java-diff-utils-parent-4.12.pom
-Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.3.1/sourcecode_2.13-0.3.1.pom
-Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.3.1/sourcecode_2.13-0.3.1.pom
-2025.10.27 20:51:21 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:3: error: [dialect scala213] ; expected but : found
-object MinimalApplication extends cask.MainRoutes:
-                                                 ^
-2025.10.27 20:51:21 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
-2025.10.27 20:51:21 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:21 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:21 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:21 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:22 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:22 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:22 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:23 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:22 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:22 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:27 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:28 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:28 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:29 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:28 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:28 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:29 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:30 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:31 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:31 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:31 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:31 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:36 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:38 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:37 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:38 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:45 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:51:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:39 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:41 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:42 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:43 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:45 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:44 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:46 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:46 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:46 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:46 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:48 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:47 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:49 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:49 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:49 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:49 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:49 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:49 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:50 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:51 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:52 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:53 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:53 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:55 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:57 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:3: error: [dialect scala213] ; expected but : found
-object MinimalApplication extends cask.MainRoutes:
-                                                 ^
-2025.10.27 20:52:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:57 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
-2025.10.27 20:52:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:57 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:58 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:58 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:58 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:58 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:52:59 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:06 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:06 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:06 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:07 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:07 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:07 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:08 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:07 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:3: error: [dialect scala213] ; expected but : found
-object MinimalApplication extends cask.MainRoutes:
-                                                 ^
-2025.10.27 20:53:08 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:08 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
-2025.10.27 20:53:08 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:13 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
-2025.10.27 20:53:13 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:13 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:53:13 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:56:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:56:05 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
-2025.10.27 20:56:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:56:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:56:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:56:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:56:07 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:08 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:10 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:10 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:11 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:15 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:18 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:18 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:18 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:18 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:18 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:18 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:19 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:19 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:19 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:19 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:19 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:19 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:19 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:20 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:19 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:20 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:20 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:20 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:22 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:22 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:22 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:24 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:25 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:25 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:25 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:25 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:25 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:25 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:25 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:25 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:25 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:26 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:3: error: [dialect scala213] ; expected but : found
-object MinimalApplication extends cask.MainRoutes:
-                                                 ^
-2025.10.27 20:57:26 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:26 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
-2025.10.27 20:57:26 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:57:28 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:58:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:58:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:58:05 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-2025.10.27 20:59:56 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
-Oct 27, 2025 9:00:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+2025.11.20 11:00:58 INFO  Started: Metals version 1.6.3 in folders '/home/grubysamuraj/studia/funkcyjne/funkcyjne' for client Visual Studio Code 1.105.1.
+2025.11.20 11:01:06 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+Nov 20, 2025 11:01:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2025.11.20 11:01:06 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 11:01:07 INFO  Attempting to connect to the build server...
+2025.11.20 11:01:07 INFO  No running Bloop server found, starting one.
+2025.11.20 11:01:09 INFO  Starting compilation server
+Nov 20, 2025 11:01:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.11.20 11:01:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 11:01:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 11:01:09 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 20, 2025 11:01:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Nov 20, 2025 11:01:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2025.11.20 11:01:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/grubysamuraj/studia/funkcyjne/funkcyjne/.metals/bsp.trace.json or /home/grubysamuraj/.cache/metals/bsp.trace.json
+2025.11.20 11:01:10 INFO  time: Connected to build server in 2.81s
+2025.11.20 11:01:10 INFO  Connected to Build server: Bloop v2.0.13
+2025.11.20 11:01:10 INFO  time: Imported build in 0.18s
+2025.11.20 11:01:13 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk/src.zip, /usr/lib/jvm/java-21-openjdk/lib/src.zip. Java symbols will not be available.
+2025.11.20 11:01:16 INFO  time: indexed workspace in 6.36s
+2025.11.20 11:01:17 INFO  compiling root (2 scala sources)
+2025.11.20 11:01:22 INFO  time: compiled root in 4.93s
+2025.11.20 11:01:44 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala:13: error: [dialect scala213] { expected but case found
+        case Some(result)=> result
+        ^
+2025.11.20 11:01:44 INFO  compiling root (2 scala sources)
+2025.11.20 11:01:44 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala:13: error: [dialect scala213] { expected but case found
+        case Some(result)=> result
+        ^
+2025.11.20 11:01:44 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala:13: error: [dialect scala213] { expected but case found
+        case Some(result)=> result
+        ^
+2025.11.20 11:01:45 INFO  time: compiled root in 1.44s
+2025.11.20 11:07:03 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala:13: error: [dialect scala213] { expected but case found
+        case Some(result)=> ujson.Arr.from(result)
+        ^
+2025.11.20 11:07:03 INFO  compiling root (2 scala sources)
+2025.11.20 11:07:05 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala:13: error: [dialect scala213] { expected but case found
+        case Some(result)=> ujson.Arr.from(result)
+        ^
+2025.11.20 11:07:07 INFO  time: compiled root in 3.39s
+2025.11.20 11:09:43 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:4: error: [dialect scala213] ; expected but : found
+object MinimalApplication extends cask.MainRoutes:
+                                                 ^
+2025.11.20 11:09:43 INFO  compiling root (2 scala sources)
+2025.11.20 11:09:47 INFO  time: compiled root in 4.09s
+Nov 20, 2025 11:11:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 387
+2025.11.20 11:13:18 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:4: error: [dialect scala213] ; expected but : found
+object MinimalApplication extends cask.MainRoutes:
+                                                 ^
+2025.11.20 11:13:19 INFO  compiling root (2 scala sources)
+2025.11.20 11:13:20 INFO  time: compiled root in 1.64s
+2025.11.20 11:13:25 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:4: error: [dialect scala213] ; expected but = found
+object MinimalApplication extends cask.MainRoutes = {
+                                                  ^
+2025.11.20 11:13:25 INFO  compiling root (2 scala sources)
+2025.11.20 11:13:25 INFO  time: compiled root in 0.31s
+2025.11.20 11:13:27 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:18: error: [dialect scala213] then expected but for found
+      for element <- arr.sliding(2) do {
+      ^
+2025.11.20 11:13:28 INFO  compiling root (2 scala sources)
+2025.11.20 11:13:29 INFO  time: compiled root in 1.41s
+2025.11.20 11:13:30 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:18: error: [dialect scala213] then expected but for found
+      for element <- arr.sliding(2) do {
+      ^
+2025.11.20 11:13:30 INFO  compiling root (2 scala sources)
+2025.11.20 11:13:30 INFO  time: compiled root in 0.82s
+2025.11.20 11:14:23 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala:18: error: [dialect scala213] then expected but for found
+      for element <- arr.sliding(2) do {
+      ^
+2025.11.20 11:14:23 INFO  compiling root (2 scala sources)
+2025.11.20 11:14:26 INFO  time: compiled root in 2.68s
+2025.11.20 11:15:17 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.20 11:15:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 11:15:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 11:15:17 WARN  scala-cli >= 0.1.3 not found in PATH, fetching and starting a JVM-based Scala CLI
+2025.11.20 11:15:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 20, 2025 11:15:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 523
+2025.11.20 11:15:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 11:15:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 11:15:17 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 20, 2025 11:15:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 526
+2025.11.20 11:15:17 INFO  Running List(/usr/lib/jvm/java-21-openjdk/bin/java, -cp, /home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/cli_3/1.9.1/cli_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app_3/2.1.0/case-app_3-2.1.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-launcher_2.13/2.1.24/coursier-launcher_2.13-2.1.24.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-proxy-setup/2.1.24/coursier-proxy-setup-2.1.24.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/publish/publish_3/0.4.3/publish_3-0.4.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.3.1/jimfs-1.3.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/jniutils/windows-jni-utils/0.3.3/windows-jni-utils-0.3.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_3/2.13.5.2/jsoniter-scala-core_3-2.13.5.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/libsodiumjni/0.0.4/libsodiumjni-0.0.4.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/metaconfig-typesafe-config_3/0.16.0/metaconfig-typesafe-config_3-0.16.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/ai/kien/python-native-libs_3/0.2.4/python-native-libs_3-0.2.4.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-packager_3/0.2.0/scala-packager_3-0.2.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/cli_3/0.2.11/cli_3-0.2.11.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-nop/2.0.17/slf4j-nop-2.0.17.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/client3/core_3/3.11.0/core_3-3.11.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/scalafix-interfaces/0.14.3/scalafix-interfaces-0.14.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.6/scala3-library_3-3.3.6.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-module_3/1.9.1/build-module_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/config_3/1.9.1/config_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala3-graal_3/1.9.1/scala3-graal_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/specification-level_3/1.9.1/specification-level_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/sourcecode_3/0.4.3-M5/sourcecode_3-0.4.3-M5.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-annotations_3/2.1.0/case-app-annotations_3-2.1.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/alexarchambault/case-app-util_3/2.1.0/case-app-util_3-2.1.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/tmp/zip-input-stream/0.1.1/zip-input-stream-0.1.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.13/2.1.24/coursier-cache_2.13-2.1.24.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-core_2.13/2.1.24/coursier-core_2.13-2.1.24.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/metaconfig-core_3/0.16.0/metaconfig-core_3-0.16.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.3/config-1.4.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_3/2.13.0/scala-collection-compat_3-2.13.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-io/commons-io/2.20.0/commons-io-2.20.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-core/0.27.3/jib-core-0.27.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_3/0.11.5/os-lib_3-0.11.5.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcpg-jdk18on/1.81/bcpg-jdk18on-1.81.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcutil-jdk18on/1.81/bcutil-jdk18on-1.81.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli-signing/shared_3/0.2.11/shared_3-0.2.11.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/model/core_3/1.7.11/core_3-1.7.11.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_3/1.3.22/core_3-1.3.22.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_3/1.3.22/ws_3-1.3.22.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/interface/1.0.28/interface-1.0.28.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/ow2/asm/asm/9.8/asm-9.8.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/java-class-name/java-class-name_3/0.1.8/java-class-name_3-0.1.8.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/semanticdb-shared_2.13/4.13.9/semanticdb-shared_2.13-4.13.9.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/test-runner_3/0.5.8/test-runner_3-0.5.8.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/pprint_3/0.9.3/pprint_3-0.9.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.13/1.4.0/scalajs-env-nodejs_2.13-1.4.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-sbt-test-adapter_2.13/1.20.1/scalajs-sbt-test-adapter_2.13-1.20.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/swoval/file-tree-views/2.1.12/file-tree-views-2.1.12.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/zip-input-stream/zip-input-stream/0.1.3/zip-input-stream-0.1.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/options_3/1.9.1/options_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/directives_3/1.9.1/directives_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/scala-cli-bsp/1.9.1/scala-cli-bsp-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/test-runner_3/1.9.1/test-runner_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/tasty-lib_3/1.9.1/tasty-lib_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/is-terminal/0.1.1/is-terminal-0.1.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-archiver/4.10.0/plexus-archiver-4.10.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/2.1.1/plexus-container-default-2.1.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/windows-ansi/windows-ansi/0.0.6/windows-ansi-0.0.6.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/cache-util/2.1.24/cache-util-2.1.24.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-util_2.13/2.1.24/coursier-util_2.13-2.1.24.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/concurrent-reference-hash-map/1.1.0/concurrent-reference-hash-map-1.1.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.13/2.3.0/scala-xml_2.13-2.3.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/metaconfig-pprint_3/0.16.0/metaconfig-pprint_3-0.16.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/paiges-core_3/0.4.4/paiges-core_3-0.4.4.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.16/scala-reflect-2.13.16.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/cloud/tools/jib-build-plan/0.4.0/jib-build-plan-0.4.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client/1.42.2/google-http-client-1.42.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-apache-v2/1.42.2/google-http-client-apache-v2-1.42.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-oauth2-http/1.10.0/google-auth-library-oauth2-http-1.10.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-compress/1.26.2/commons-compress-1.26.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.15.2/jackson-datatype-jsr310-2.15.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_3/1.1.1/geny_3-1.1.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-zip/0.11.5/os-zip-0.11.5.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk18on/1.81/bcprov-jdk18on-1.81.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jni/3.25.0/jline-terminal-jni-3.25.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-native/3.25.0/jline-native-3.25.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.6/scala3-compiler_3-3.3.6.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.13.9/scalameta_2.13-4.13.9.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scalap/2.13.13/scalap-2.13.13.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.13/0.11.15/scalapb-runtime_2.13-0.11.15.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/tools_3/0.5.8/tools_3-0.5.8.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/sbt/junit-interface/0.13.3/junit-interface-0.13.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/fansi_3/0.5.1/fansi_3-0.5.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.13/1.4.0/scalajs-js-envs_2.13-1.4.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.13/2.3.2/bloop-config_2.13-2.3.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/core_3/1.9.1/core_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/using_directives/1.1.4/using_directives-1.1.4.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/virtuslab/scala-cli/build-macros_3/1.9.1/build-macros_3-1.9.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bsp4j/2.1.1/bsp4j-2.1.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/4.0.1/plexus-utils-4.0.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-io/3.5.0/plexus-io-3.5.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/airlift/aircompressor/0.27/aircompressor-0.27.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.6-3/zstd-jni-1.5.6-3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.6.0/plexus-classworlds-2.6.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/xbean/xbean-reflect/3.7/xbean-reflect-3.7.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/2.4.1/jansi-2.4.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-api/0.31.1/opencensus-api-0.31.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/opencensus/opencensus-contrib-http-util/0.31.1/opencensus-contrib-http-util-0.31.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auto/value/auto-value-annotations/1.9/auto-value-annotations-1.9.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/auth/google-auth-library-credentials/1.10.0/google-auth-library-credentials-1.10.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/http-client/google-http-client-gson/1.42.2/google-http-client-gson-1.42.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.18.0/commons-codec-1.18.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.6/scala3-interfaces-3.3.6.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.6/tasty-core_3-3.3.6.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.8.0-scala-1/scala-asm-9.8.0-scala-1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.4/compiler-interface-1.10.4.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.13.9/parsers_2.13-4.13.9.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.13/scala-compiler-2.13.13.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.13/0.11.15/lenses_2.13-0.11.15.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.19.6/protobuf-java-3.19.6.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/nir_3/0.5.8/nir_3-0.5.8.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-native/util_3/0.5.8/util_3-0.5.8.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_2.13/1.1.1/scalajs-logging_2.13-1.1.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/unroll-annotation_2.13/0.1.12/unroll-annotation_2.13-0.1.12.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-rifle_2.13/2.0.13/bloop-rifle_2.13-2.0.13.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-jvm_2.13/2.1.24/coursier-jvm_2.13-2.1.24.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/dependency_3/0.3.2/dependency_3-0.3.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/7.3.0.202506031305-r/org.eclipse.jgit-7.3.0.202506031305-r.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-jsdom-nodejs_2.13/1.1.0/scalajs-env-jsdom-nodejs_2.13-1.1.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.generator/0.20.1/org.eclipse.lsp4j.generator-0.20.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/lsp4j/org.eclipse.lsp4j.jsonrpc/0.20.1/org.eclipse.lsp4j.jsonrpc-0.20.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/grpc/grpc-context/1.27.2/grpc-context-1.27.2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.10.4/util-interface-1.10.4.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/trees_2.13/4.13.9/trees_2.13-4.13.9.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/libdaemon_2.13/0.0.12/libdaemon_2.13-0.0.12.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/github/alexarchambault/scala-cli/snailgun/snailgun-core_2.13/0.4.1-sc2/snailgun-core_2.13-0.4.1-sc2.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier_2.13/2.1.24/coursier_2.13-2.1.24.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/coursier-env_2.13/2.1.24/coursier-env_2.13-2.1.24.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib/2.28.0/org.eclipse.xtend.lib-2.28.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/common_2.13/4.13.9/common_2.13-4.13.9.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalameta/io_2.13/4.13.9/io_2.13-4.13.9.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtext/org.eclipse.xtext.xbase.lib/2.28.0/org.eclipse.xtext.xbase.lib-2.28.0.jar:/home/grubysamuraj/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/xtend/org.eclipse.xtend.lib.macro/2.28.0/org.eclipse.xtend.lib.macro-2.28.0.jar, scala.cli.ScalaCli, bsp, --workspace, /tmp/metals-scala-cli8207729855510475144, --semantic-db-source-root, /home/grubysamuraj/studia/funkcyjne/cw3, /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala)
+2025.11.20 11:15:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/grubysamuraj/studia/funkcyjne/cw3/.metals/bsp.trace.json or /home/grubysamuraj/.cache/metals/bsp.trace.json
+2025.11.20 11:15:18 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 11:15:18 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 11:15:18 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.20 11:15:19 INFO  time: code lens generation in 1.84s
+2025.11.20 11:15:21 INFO  Connected to Scala CLI server v1.9.1
+2025.11.20 11:15:21 INFO  Shut down connection with build server.
+2025.11.20 11:15:21 ERROR Error starting Scala CLI
+java.lang.Exception: No Scala CLI server running
+	at scala.meta.internal.metals.scalacli.ScalaCli.$anonfun$importBuild$10(ScalaCli.scala:147)
+	at scala.meta.internal.metals.scalacli.ScalaCli.ifConnectedOrElse(ScalaCli.scala:89)
+	at scala.meta.internal.metals.scalacli.ScalaCli.importBuild(ScalaCli.scala:147)
+	at scala.meta.internal.metals.scalacli.ScalaCli.$anonfun$importBuild$2(ScalaCli.scala:145)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+Nov 20, 2025 11:15:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 535
+Nov 20, 2025 11:15:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 537
+Nov 20, 2025 11:15:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 536
+Nov 20, 2025 11:15:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 539
+Nov 20, 2025 11:15:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 538
+2025.11.20 11:15:21 WARN  no build target for: /home/grubysamuraj/studia/funkcyjne/cw3/optional.scala
+Nov 20, 2025 11:15:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 542
+2025.11.20 11:15:28 ERROR scalafmt: /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/zad4/zad4.scala:13: error: [dialect scala213] { expected but case found
+        case Some(result)=> ujson.Arr.from(result)
+        ^
+2025.11.20 11:15:28 INFO  compiling root (1 scala source)
+2025.11.20 11:15:31 INFO  time: compiled root in 2.16s
+Nov 20, 2025 11:27:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+<<<<<<< HEAD
 Oct 27, 2025 9:00:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2025.10.27 21:06:01 INFO  no build target found for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
@@ -2594,3 +2113,6 @@ object MinimalApplication extends cask.MainRoutes:
 2025.11.11 19:12:18 ERROR scalafmt: D:\pliki\Studia\fakutlety\funkcyjne\zad1\src\main\scala\Main.scala:57: error: [dialect scala213] ; expected but : found
 object MinimalApplication extends cask.MainRoutes:
                                                  ^
+=======
+2025.11.20 11:43:39 INFO  Shut down connection with build server.
+>>>>>>> b0eeeda (zad 4 3.0 added)

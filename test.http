@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @host = http://127.0.0.1:8080
 
 ###
@@ -99,15 +100,4 @@ Content-Type: application/json
 
 {
     "list":[1,2,3]
-}
-
-###
-# @name postJsonTail
-# test to sum rows
-POST {{host}}/drop
-Content-Type: application/json
-
-{
-    "list":[1,2,3,4,5,6],
-    "n": 3
 }
