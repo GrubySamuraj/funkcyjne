@@ -73,5 +73,25 @@ object Zadanie4Controller extends cask.Routes {
       case _                          => return None
     }
   }
+  @cask.postJson("/myMap")
+  def myMapMethod(
+      list1: Option[List[Int]],
+      list2: Option[List[Int]]
+  ): ujson.Value = {
+    val resultOption = this.mojeMap(list1, list2) { (l1, l2) =>
+      l1 ++ l2
+    }
+    resultOption match {
+      case Some(list) => ujson.Arr(list)
+      case None       => ujson.Str("Nic")
+    }
+  }
+
+  def mojeMap[A, B, C](a: Option[A], b: Option[B])(
+      f: (A, B) => C
+  ): Option[C] = {
+    a.flatMap(itemA => b.map(itemB => f(itemA, itemB)))
+  }
+
   initialize()
 }
