@@ -53,6 +53,25 @@ object Zadanie4Controller extends cask.Routes {
     }
     Some((list.sum.toFloat / list.length))
   }
+  @cask.postJson("/concatTwoListOptional")
+  def concatTwoListController(
+      list1: Option[List[Int]],
+      list2: Option[List[Int]]
+  ): ujson.Value = {
+    var result = this.concatTwoList(list1, list2)
+    result match
+      case Some(result) => ujson.Arr(result)
+      case None         => ujson.Str("Jedna z list jest None")
 
+  }
+  def concatTwoList(
+      list1: Option[List[Int]],
+      list2: Option[List[Int]]
+  ): Option[List[Int]] = {
+    (list1, list2) match {
+      case (Some(list1), Some(list2)) => return Some(list1 ::: list2)
+      case _                          => return None
+    }
+  }
   initialize()
 }

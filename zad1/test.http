@@ -138,3 +138,23 @@ Content-Type: application/json
 {
   "list": []
 }
+
+### Test: Próba wstawienia elementu na indeks spoza zakresu
+
+POST http://localhost:8080/concatTwoListOptional
+Content-Type: application/json
+
+{
+  "list1": [1,2],
+  "list2": [3,4]
+}
+
+### Test: Próba wstawienia elementu na indeks spoza zakresu
+
+POST http://localhost:8080/concatTwoListOptional
+Content-Type: application/json
+
+{
+  "list1": null,
+  "list2": [3,4]
+}
