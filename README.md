@@ -61,3 +61,26 @@ która zwraca jedną listę
 https://github.com/user-attachments/assets/1327ff3c-547a-486c-a7fd-ec3d930aa1b9
 
 Kod: [Link do zadania 3](https://github.com/GrubySamuraj/funkcyjne/tree/master/zad1)
+
+# Zadanie 4 Typ optional
+
+:white_check_mark: 3.0 zwróci taki sam wynik jak zad.1 4.5 ale wykorzysta typ opcjonalny 
+[Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/a548a198563fcf596f492aceb3424141f36e789b)
+
+:white_check_mark: 3.5 zwroci wariancję z listy; do implementacji wykorzystać należy typ
+opcjonalny [Link do commita 2](https://github.com/GrubySamuraj/funkcyjne/commit/e6f9ff0797674fea345b8a85489fb0c72f499884)
+
+:white_check_mark: 4.0 zwróci listę (option), która jest wynikiem połączenia dwóch list
+(option); w przypadku gdy jedna z list jest None, funkcja powinna
+zwrócić None [Link do commita 3](https://github.com/GrubySamuraj/funkcyjne/commit/fe45f2f9c98adbef61bed651991ad2686e257192)
+
+:white_check_mark: 4.5 zwróci listę za pomocą metody mojeMap[A,B,C](a: Option[A], b:
+Option[B])(f:(A,B)=>C):Option[C]; należy wykorzystać metodę flatMap
+oraz map [Link do commita 4](https://github.com/GrubySamuraj/funkcyjne/commit/3e801d7ffbc5d1d7ba889ba660d2c9e9104cbc1f)
+
+:white_check_mark: 5.0 zwróci taki średnią (mean) z listy zwracając Either
+[Link do commita 5](https://github.com/GrubySamuraj/funkcyjne/commit/954999a62b4afbcc321dc4faebafc120d151f6e7)
+
+https://github.com/user-attachments/assets/2ad41dbc-6924-494d-8a47-0c7ecf4db1d9
+
+Kod: [Link do zadania 4](https://github.com/GrubySamuraj/funkcyjne/blob/master/zad1/src/main/scala/zad4/zad4.scala)

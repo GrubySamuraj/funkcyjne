@@ -2186,3 +2186,12 @@ object MinimalApplication extends cask.MainRoutes:
       ^
 2025.11.20 17:04:39 WARN  Could not load snapshot text for /home/grubysamuraj/studia/funkcyjne/funkcyjne/zad1/src/main/scala/Main.scala
 2025.11.20 17:04:40 INFO  time: compiled root in 3.73s
+2025.11.20 18:43:40 INFO  Started: Metals version 1.6.3 in folders '/home/jdragosz/Studia/funkcyjne/funkcyjne' for client Visual Studio Code 1.106.1.
+2025.11.20 18:43:44 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.20 18:43:44 INFO  Attempting to connect to the build server...
+2025.11.20 18:43:44 INFO  Found a Bloop server running
+2025.11.20 18:43:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jdragosz/Studia/funkcyjne/funkcyjne/.metals/bsp.trace.json or /home/jdragosz/.cache/metals/bsp.trace.json
+2025.11.20 18:43:44 INFO  time: Connected to build server in 0.16s
+2025.11.20 18:43:44 INFO  Connected to Build server: Bloop v2.0.16
+2025.11.20 18:43:45 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk/src.zip, /usr/lib/jvm/java-21-openjdk/lib/src.zip. Java symbols will not be available.
+2025.11.20 18:43:45 INFO  time: indexed workspace in 1.13s
