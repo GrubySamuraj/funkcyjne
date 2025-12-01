@@ -1,6 +1,7 @@
 package app
 import scala.collection.mutable.ListBuffer
 import zad4.Zadanie4Controller
+import zad5.Zadanie5Controller
 
 class Node[T](var data: T, var prev: Node[T] = null, var next: Node[T] = null)
 class DoublyLinkedList[T](elements: List[T]) {
@@ -57,7 +58,7 @@ class DoublyLinkedList[T](elements: List[T]) {
 object MinimalApplication extends cask.MainRoutes {
   override def host: String = "0.0.0.0"
   override def port: Int = 8080
-  override def allRoutes = Seq(this, Zadanie4Controller)
+  override def allRoutes = Seq(this, Zadanie5Controller, Zadanie4Controller)
 
   @cask.postJson("/isSorted")
   def isSorted(method: String, arr: List[Int]) = {
