@@ -89,15 +89,15 @@ Kod: [Link do zadania 4](https://github.com/GrubySamuraj/funkcyjne/blob/master/z
 
 :white_check_mark: 3.0 zwróci słownik z liczbą powtarzających się liczb za pomocą funkcji
 mapreduce dla list z liczbami
-[Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/a548a198563fcf596f492aceb3424141f36e789b)
+[Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/7152e2b3dc776ec8dea938f0bbe657af51a116d3)
 
 :white_check_mark: 3.5 zwróci słownik z liczbami podniesionymi do sześcianu za pomocą
 funkcji mapreduce dla list z liczbami
-opcjonalny [Link do commita 2](https://github.com/GrubySamuraj/funkcyjne/commit/e6f9ff0797674fea345b8a85489fb0c72f499884)
+opcjonalny [Link do commita 2](https://github.com/GrubySamuraj/funkcyjne/commit/7152e2b3dc776ec8dea938f0bbe657af51a116d3)
 
 :white_check_mark: 4.0 zwróci słownik (student, godziny nauki), która wykorzysta funkcją
 mapreduce oraz groupBy dla słownika na wejściu
-zwrócić None [Link do commita 3](https://github.com/GrubySamuraj/funkcyjne/commit/fe45f2f9c98adbef61bed651991ad2686e257192)
+zwrócić None [Link do commita 3](https://github.com/GrubySamuraj/funkcyjne/commit/d982601871358d893bf30525763c0a0453c50709)
 
 :x: 4.5 zwróci słownik (zdanie, wektor), która wykorzysta funkcję
 mapreduce oraz bagOfWords
@@ -106,4 +106,6 @@ mapreduce oraz bagOfWords
 mapreduce oraz join; na wejściu są dwie listy: (numer_indeksu,
 student), (numer_indeksu, kurs, ocena)
 
-Kod: [Link do zadania 5](https://github.com/GrubySamuraj/funkcyjne/blob/master/zad1/src/main/scala/zad4/zad4.scala)
+https://github.com/user-attachments/assets/aca6e8f0-4bb7-41fe-9ed8-200826e571db
+
+Kod: [Link do zadania 5](https://github.com/GrubySamuraj/funkcyjne/blob/master/zad1/src/main/scala/zad5/zad5.scala)
