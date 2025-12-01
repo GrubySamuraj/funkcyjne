@@ -16,6 +16,15 @@ object Zadanie5Controller extends cask.Routes {
 
     ujson.Obj.from(wynik)
   }
+  @cask.postJson("/students")
+  def studentHours(data: List[ujson.Value]): ujson.Value = {
+    val grouped = data.groupBy(item => item("student").str)
+    val result = grouped.map { case (studentName, entries) =>
+      val totalHours = entries.map(entry => entry("hours").num).sum
+      (studentName, ujson.Num(totalHours))
+    }
+    result
+  }
 
   initialize()
 }

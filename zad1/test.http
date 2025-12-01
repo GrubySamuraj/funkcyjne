@@ -196,7 +196,7 @@ Content-Type: application/json
   "list": []
 }
 
-### Test: Wyliczenie średniej gdy jest pusta
+### Test: Wyliczenie elementow dla mapreduce
 
 POST http://localhost:8080/mapReduce
 Content-Type: application/json
@@ -205,11 +205,26 @@ Content-Type: application/json
   "listNumbers": [1,2,3,4,1,1,1,5,5]
 }
 
-### Test: Wyliczenie średniej gdy jest pusta
+### Test: Wyliczenie szescianów dla mapreduce
 
 POST http://localhost:8080/cubeMapReduce
 Content-Type: application/json
 
 {
   "list": [1,2,3,4]
+}
+
+### Test: Wyliczenie ilosci godzin dla kazdego studenta dla mapreduce
+
+POST http://localhost:8080/students
+Content-Type: application/json
+
+{
+  "data": [
+    {"student": "Jan", "hours": 3},
+    {"student": "Anna", "hours": 5},
+    {"student": "Jan", "hours": 2},
+    {"student": "Piotr", "hours": 1},
+    {"student": "Anna", "hours": 4}
+  ]
 }

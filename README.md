@@ -64,7 +64,7 @@ Kod: [Link do zadania 3](https://github.com/GrubySamuraj/funkcyjne/tree/master/z
 
 # Zadanie 4 Typ optional
 
-:white_check_mark: 3.0 zwróci taki sam wynik jak zad.1 4.5 ale wykorzysta typ opcjonalny 
+:white_check_mark: 3.0 zwróci taki sam wynik jak zad.1 4.5 ale wykorzysta typ opcjonalny
 [Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/a548a198563fcf596f492aceb3424141f36e789b)
 
 :white_check_mark: 3.5 zwroci wariancję z listy; do implementacji wykorzystać należy typ
@@ -84,3 +84,26 @@ oraz map [Link do commita 4](https://github.com/GrubySamuraj/funkcyjne/commit/3e
 https://github.com/user-attachments/assets/2ad41dbc-6924-494d-8a47-0c7ecf4db1d9
 
 Kod: [Link do zadania 4](https://github.com/GrubySamuraj/funkcyjne/blob/master/zad1/src/main/scala/zad4/zad4.scala)
+
+# Zadanie 5 MapReduce
+
+:white_check_mark: 3.0 zwróci słownik z liczbą powtarzających się liczb za pomocą funkcji
+mapreduce dla list z liczbami
+[Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/a548a198563fcf596f492aceb3424141f36e789b)
+
+:white_check_mark: 3.5 zwróci słownik z liczbami podniesionymi do sześcianu za pomocą
+funkcji mapreduce dla list z liczbami
+opcjonalny [Link do commita 2](https://github.com/GrubySamuraj/funkcyjne/commit/e6f9ff0797674fea345b8a85489fb0c72f499884)
+
+:white_check_mark: 4.0 zwróci słownik (student, godziny nauki), która wykorzysta funkcją
+mapreduce oraz groupBy dla słownika na wejściu
+zwrócić None [Link do commita 3](https://github.com/GrubySamuraj/funkcyjne/commit/fe45f2f9c98adbef61bed651991ad2686e257192)
+
+:x: 4.5 zwróci słownik (zdanie, wektor), która wykorzysta funkcję
+mapreduce oraz bagOfWords
+
+:x: 5.0 zwróci słownik (student, średnia ocen), która wykorzysta funkcję
+mapreduce oraz join; na wejściu są dwie listy: (numer_indeksu,
+student), (numer_indeksu, kurs, ocena)
+
+Kod: [Link do zadania 5](https://github.com/GrubySamuraj/funkcyjne/blob/master/zad1/src/main/scala/zad4/zad4.scala)
