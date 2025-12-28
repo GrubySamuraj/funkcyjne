@@ -35,3 +35,13 @@ Content-Type: application/json
   "listHead": 5,
   "list": [1, 2, 3, 4]
 }
+
+### Test append
+POST http://localhost:3000/append
+Content-Type: application/json
+
+{
+  "listAppend": [1, 2, 3, 4, 5],
+  "indexToInsert": 2,
+  "elementToAdd": 10
+}

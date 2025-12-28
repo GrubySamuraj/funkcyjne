@@ -24,6 +24,13 @@ data SetHeadData = SetHeadData
   }
   deriving (Generic, Show)
 
+data AppendData = AppendData
+  { listAppend :: [Int],
+    elementToAdd :: Int,
+    indexToInsert :: Int
+  }
+  deriving (Generic, Show)
+
 instance FromJSON IsSortedData
 
 instance ToJSON IsSortedData
@@ -35,6 +42,10 @@ instance ToJSON SummedData
 instance FromJSON SetHeadData
 
 instance ToJSON SetHeadData
+
+instance FromJSON AppendData
+
+instance ToJSON AppendData
 
 main :: IO ()
 main = scotty 3000 $ do
@@ -61,3 +72,14 @@ main = scotty 3000 $ do
     bodySetHead <- jsonData :: ActionM SetHeadData
 
     json $ listHead bodySetHead : list bodySetHead
+
+  post "/append" $ do
+    obj <- jsonData :: ActionM AppendData
+
+    let lista = listAppend obj
+    let element = elementToAdd obj
+    let idx = indexToInsert obj
+
+    let wynik = take idx lista ++ [element] ++ drop idx lista
+
+    json wynik
