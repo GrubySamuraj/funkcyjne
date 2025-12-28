@@ -31,6 +31,11 @@ data AppendData = AppendData
   }
   deriving (Generic, Show)
 
+data SquaresData = SquaresData
+  { list1 :: [Int],
+    list2 :: [Int]
+  }
+
 instance FromJSON IsSortedData
 
 instance ToJSON IsSortedData
@@ -46,6 +51,10 @@ instance ToJSON SetHeadData
 instance FromJSON AppendData
 
 instance ToJSON AppendData
+
+instance FromJSON SquaresData
+
+instance ToJSON SquaresData
 
 main :: IO ()
 main = scotty 3000 $ do
@@ -81,5 +90,14 @@ main = scotty 3000 $ do
     let idx = indexToInsert obj
 
     let wynik = take idx lista ++ [element] ++ drop idx lista
+
+    json wynik
+  post "/squares" $ do
+    obj <- jsonData :: ActionM SquaresData
+
+    let l1 = list1 obj
+    let l2 = list2 obj
+
+    let wynik = zipWith (\x y -> x ^ 2 + y ^ 2) l1 l2
 
     json wynik
