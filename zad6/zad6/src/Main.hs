@@ -32,9 +32,10 @@ data AppendData = AppendData
   deriving (Generic, Show)
 
 data SquaresData = SquaresData
-  { list1 :: [Int],
-    list2 :: [Int]
+  { list_1 :: [Int],
+    list_2 :: [Int]
   }
+  deriving (Generic, Show)
 
 instance FromJSON IsSortedData
 
@@ -93,11 +94,11 @@ main = scotty 3000 $ do
 
     json wynik
   post "/squares" $ do
-    obj <- jsonData :: ActionM SquaresData
+    obj2 <- jsonData :: ActionM SquaresData
 
-    let l1 = list1 obj
-    let l2 = list2 obj
+    let l_1 = list_1 obj2
+    let l_2 = list_2 obj2
 
-    let wynik = zipWith (\x y -> x ^ 2 + y ^ 2) l1 l2
+    let wynik = zipWith (\x y -> x ^ 2 + y ^ 2) l_1 l_2
 
     json wynik

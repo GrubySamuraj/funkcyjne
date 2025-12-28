@@ -45,3 +45,13 @@ Content-Type: application/json
   "indexToInsert": 2,
   "elementToAdd": 10
 }
+
+### Test squares
+
+POST http://localhost:3000/squares
+Content-Type: application/json
+
+{
+  "list_1": [2, 10], 
+  "list_2": [3, 5]
+}
