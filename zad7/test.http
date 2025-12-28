@@ -1,5 +1,9 @@
-### Pobierz losową liczbę
+### Pobierz losową liczbę Int
 GET http://localhost:3000/randomInt
 
-### Pobierz losową liczbę
-GET http://localhost:3000/randomFloat
+### Pobierz losową liczbę Float
+GET http://localhost:3000/randomDouble
+
+
+### Pobierz losowe pary
+GET http://localhost:3000/randomPairs
