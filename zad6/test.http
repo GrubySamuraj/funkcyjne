@@ -1,0 +1,37 @@
+### Test 1: Lista jest posortowana (Oczekiwane: "Tak! ...")
+POST http://localhost:3000/isSorted
+Content-Type: application/json
+
+{
+  "arrayToCheck": [1, 2, 3, 5, 10, 20]
+}
+
+###
+
+### Test 2: Lista NIE jest posortowana (Oczekiwane: "Nie! ...")
+POST http://localhost:3000/isSorted
+Content-Type: application/json
+
+{
+  "arrayToCheck": [5, 1, 99, 2]
+}
+
+
+### Test sumowania 3 list
+POST http://localhost:3000/sum
+Content-Type: application/json
+
+{
+  "list1": [1, 2, 3],
+  "list2": [10, 20, 30],
+  "list3": [100, 200, 300]
+}
+
+### Test SetHead
+POST http://localhost:3000/setHead
+Content-Type: application/json
+
+{
+  "listHead": 5,
+  "list": [1, 2, 3, 4]
+}
