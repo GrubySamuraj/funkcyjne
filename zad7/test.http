@@ -1,0 +1,5 @@
+### Pobierz losową liczbę
+GET http://localhost:3000/randomInt
+
+### Pobierz losową liczbę
+GET http://localhost:3000/randomFloat
