@@ -1,4 +1,4 @@
-# Zadanie 1
+# Zadanie 1 - Wstęp
 
 :white_check_mark: 3.0 Zaimplementuj funkcję isSorted, która sprawdza czy dana funkcja jest posortowana zgodnie z podaną funkcją porównawczą [Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/5c6f9839a9f93fad7dc3faea70bae5ab31c8f408)
 
@@ -109,3 +109,22 @@ student), (numer_indeksu, kurs, ocena)
 https://github.com/user-attachments/assets/aca6e8f0-4bb7-41fe-9ed8-200826e571db
 
 Kod: [Link do zadania 5](https://github.com/GrubySamuraj/funkcyjne/blob/master/zad1/src/main/scala/zad5/zad5.scala)
+
+
+# Zadanie 6 Wstęp do Haskella
+
+:white_check_mark: 3.0 Zaimplementuj funkcję isSorted, która sprawdza czy dana funkcja jest posortowana zgodnie z podaną funkcją porównawczą [Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/8c1a02d860ace107a8cccdb687f6fd89c8a6c5a0)
+
+:white_check_mark: 3.5 Zaimplementuj funkcję, która zsumuje liczby po wierszach z trzech list na wejściu; wykorzystaj funkcję sprowadzi funkcję z trzema argumentami, do funkcji z dwoma [Link do commita2 ](https://github.com/GrubySamuraj/funkcyjne/commit/8c1a02d860ace107a8cccdb687f6fd89c8a6c5a0)
+
+:white_check_mark: 4.0 Zaimplementuj funkcję setHead, która doda element na początku listy [Link do commita 3](https://github.com/GrubySamuraj/funkcyjne/commit/8c1a02d860ace107a8cccdb687f6fd89c8a6c5a0)
+
+:white_check_mark: 4.5 Zaimplementuj funkcję append, która doda element we wskazanym miejscu w liście [Link do commita 4](https://github.com/GrubySamuraj/funkcyjne/commit/f1762259beea471cc1e8154ee394fe6a2a08bd5b)
+
+
+:white_check_mark: 5.0 Zaimplementuj funkcję, która policzy kwadrat liczb z dwóch list (po wierszach) za pomocą funkcji map oraz funkcji anonimowej.
+[Link do commita 5](https://github.com/GrubySamuraj/funkcyjne/commit/b56fdd38c7b167c909cd2eb2218f317ea2139140)
+
+Kod: [Link do zadania 6](https://github.com/GrubySamuraj/funkcyjne/blob/master/zad6/zad6/src/Main.hs)
+
+https://github.com/user-attachments/assets/3e44f57b-75d9-4733-b863-c03d4d4787d8

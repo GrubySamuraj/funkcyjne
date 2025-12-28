@@ -1,4 +1,4 @@
-### Test 1: Lista jest posortowana (Oczekiwane: "Tak! ...")
+### Test 1: Lista jest posortowana
 POST http://localhost:3000/isSorted
 Content-Type: application/json
 
@@ -8,7 +8,7 @@ Content-Type: application/json
 
 ###
 
-### Test 2: Lista NIE jest posortowana (Oczekiwane: "Nie! ...")
+### Test 2: Lista NIE jest posortowana
 POST http://localhost:3000/isSorted
 Content-Type: application/json
 
