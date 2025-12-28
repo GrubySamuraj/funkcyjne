@@ -4,6 +4,5 @@ GET http://localhost:3000/randomInt
 ### Pobierz losową liczbę Float
 GET http://localhost:3000/randomDouble
 
-
 ### Pobierz losowe pary
 GET http://localhost:3000/randomPairs

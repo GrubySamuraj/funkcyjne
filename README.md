@@ -128,3 +128,22 @@ Kod: [Link do zadania 5](https://github.com/GrubySamuraj/funkcyjne/blob/master/z
 Kod: [Link do zadania 6](https://github.com/GrubySamuraj/funkcyjne/blob/master/zad6/zad6/src/Main.hs)
 
 https://github.com/user-attachments/assets/3e44f57b-75d9-4733-b863-c03d4d4787d8
+
+# Zadanie 7 Maszyna Stanów
+
+:white_check_mark: 3.0 zwróci wartość między 0, a maxvalue of Int włącznie [Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/1ca821ad279e91ec4c50cd01248e5414401aedac)
+
+:white_check_mark: 3.5 zwróci wartość między 0, a 1 (Double) z wyłączeniem 1 [Link do commita 2](https://github.com/GrubySamuraj/funkcyjne/commit/1ca821ad279e91ec4c50cd01248e5414401aedac)
+
+:white_check_mark: 4.0 zwróci pary (Int, Double), (Double, Int) oraz krotki (Double,
+Double, Double) wykorzystując funkcje z ocen 3.0 oraz 3.5 [Link do commita 3](https://github.com/GrubySamuraj/funkcyjne/commit/e372831da2a052d809db2a020d6d71137ecd4dd0)
+
+:x: 4.5 zwróci wartość jak w funkcji 3.5, ale wykorzysta map 
+
+
+:x: 5.0 zwróci wartość jak w funkcji 3.5, ale wykorzysta flatMap
+
+
+Kod: [Link do zadania 7](https://github.com/GrubySamuraj/funkcyjne/tree/master/zad7/zad7)
+
+https://github.com/user-attachments/assets/198d12cc-e44f-47e2-8a39-4e93d830047c
