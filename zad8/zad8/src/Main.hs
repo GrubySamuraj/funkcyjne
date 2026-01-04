@@ -43,7 +43,7 @@ main :: IO ()
 main = scotty 3000 $ do
   post "/sum" $ do
     input <- jsonData :: ActionM SumData
-    let outputData = (+) <$> Just (x input) <*> Just (y input)
+    let outputData = (+ (x input)) <$> Just (y input)
     json outputData
 
   post "/concat" $ do

@@ -147,3 +147,26 @@ Double, Double) wykorzystując funkcje z ocen 3.0 oraz 3.5 [Link do commita 3](h
 Kod: [Link do zadania 7](https://github.com/GrubySamuraj/funkcyjne/tree/master/zad7/zad7)
 
 https://github.com/user-attachments/assets/198d12cc-e44f-47e2-8a39-4e93d830047c
+
+# Zadanie 8 Monoidy Monady i funktory
+
+:white_check_mark: 3.0 wykorzysta metodę map fuktora do wykonania funkcji dodawania lub
+odejmowania na dwóch wartość przyjętych na wejściu [Link do commita 1](https://github.com/GrubySamuraj/funkcyjne/commit/2b49b882956f280d72dfe4f8cf784024cad36ff7)
+
+:white_check_mark: 3.5 zwróci wartość konkatenacji trzech list za pomocą monoidy [Link do commita 2](https://github.com/GrubySamuraj/funkcyjne/commit/74c3293b238b0f42f7acabb353cb7db64f89d7db)
+
+:white_check_mark: 4.0 zwróci wartość sumy listy liczb lub zwróci nil; zaimplementuj
+wykorzystując monady [Link do commita 3](https://github.com/GrubySamuraj/funkcyjne/commit/eb6f36db7bf91b61dea6364cec5a40da49b6c59a)
+
+:x: 4.5 zwróci zadanie z zestawy 6 na ocenę 4.0 i wykorzysta metodę
+combine oraz join
+
+
+:x: 5.0 zwróci dla listy minimum 3 elementów typu int mapę: liczba
+elementów, suma,  wartość minimalna, wartość maksymalna; wykorzysta do
+tego monadę oraz metodę foldMap
+
+
+Kod: [Link do zadania 8](https://github.com/GrubySamuraj/funkcyjne/tree/master/zad8/zad8)
+
+https://github.com/user-attachments/assets/e151bc4e-96d9-492a-8445-c93200999cbf

@@ -1,0 +1,37 @@
+
+### Test sumowania
+POST http://localhost:3000/sum
+Content-Type: application/json
+
+{
+  "x": 3,
+  "y": 2
+}
+
+### Test konkatenacji
+POST http://localhost:3000/concat
+Content-Type: application/json
+
+{
+  "list1": ["a","b"],
+  "list2": ["c"],
+  "list3":["d","e"]
+}
+
+### Test sumy listy
+POST http://localhost:3000/sumList
+Content-Type: application/json
+
+{
+  "numbers": [1,2,3]
+}
+
+
+### Test sumy listy pustej
+POST http://localhost:3000/sumList
+Content-Type: application/json
+
+{
+  "numbers": []
+}
+
