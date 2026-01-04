@@ -18,6 +18,11 @@ data ConcatData = ConcatData
   }
   deriving (Show, Generic)
 
+data SumListData = SumListData
+  { numbers :: [Int]
+  }
+  deriving (Show, Generic)
+
 instance FromJSON SumData
 
 instance ToJSON SumData
@@ -25,6 +30,14 @@ instance ToJSON SumData
 instance FromJSON ConcatData
 
 instance ToJSON ConcatData
+
+instance ToJSON SumListData
+
+instance FromJSON SumListData
+
+sumList :: [Int] -> Maybe Int
+sumList [] = Nothing
+sumList xs = return (sum (xs))
 
 main :: IO ()
 main = scotty 3000 $ do
@@ -39,3 +52,6 @@ main = scotty 3000 $ do
     json output
 
   post "/sumList" $ do
+    input3 <- jsonData :: ActionM SumListData
+    let output = sumList $ numbers input3
+    json output
