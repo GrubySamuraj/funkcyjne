@@ -1,0 +1,33 @@
+
+### Test binarny
+POST http://localhost:3000/binary
+Content-Type: application/json
+
+{
+  "number": 13
+}
+
+### Test sortowania
+POST http://localhost:3000/sortedList
+Content-Type: application/json
+
+{
+  "list": [5,1,3,8,10]
+}
+
+### Test mapReduce
+POST http://localhost:3000/mapReduce
+Content-Type: application/json
+
+{
+  "list": [
+    { "student": "Jan", "hours": 3 },
+    { "student": "Anna", "hours": 5 },
+    { "student": "Jan", "hours": 2 },
+    { "student": "Piotr", "hours": 10 },
+    { "student": "Anna", "hours": 1 }
+  ]
+}
+
+
+
