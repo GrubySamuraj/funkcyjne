@@ -1,0 +1,57 @@
+@jsUrl = https://nodejs-gpgwd9hsfzcygmbq.polandcentral-01.azurewebsites.net/api
+@haskellUrl = https://haskell-grubysamuraj-ard2hgezb4e6cfbm.polandcentral-01.azurewebsites.net
+
+### 1. JS: Sprawdzenie czy liczba jest pierwsza
+POST {{jsUrl}}/binary
+Content-Type: application/json
+
+{
+  "number": 13
+}
+
+### 2. JS: Sortowanie listy
+POST {{jsUrl}}/sortedList
+Content-Type: application/json
+
+{
+    "list": [5, 1, 10, 2, 100, 50]
+}
+
+### 3. JS: MapReduce (Godziny studentów)
+POST {{jsUrl}}/mapReduce
+Content-Type: application/json
+
+{
+  "list": [
+    {"student": "Jan", "hours": 3},
+    {"student": "Anna", "hours": 5},
+    {"student": "Jan", "hours": 2}
+  ]
+}
+
+### 1. Haskell: Czy posortowana? (Test negatywny)
+POST {{haskellUrl}}/isSorted
+Content-Type: application/json
+
+{
+  "arrayToCheck": [9, 1, 5]
+}
+
+### 2. Haskell: Suma trzech list
+POST {{haskellUrl}}/sum
+Content-Type: application/json
+
+{
+  "list1": [1, 1, 1],
+  "list2": [2, 2, 2],
+  "list3": [3, 3, 3]
+}
+
+### 3. Haskell: Podmiana głowy listy (SetHead)
+POST {{haskellUrl}}/setHead
+Content-Type: application/json
+
+{
+  "listHead": 999,
+  "list": [1, 2, 3]
+}
