@@ -184,3 +184,13 @@ funkcję map
 Kod: [Link do zadania 9](https://github.com/GrubySamuraj/funkcyjne/tree/master/zad9/zad9)
 
 https://github.com/user-attachments/assets/bd799d87-aba2-403d-a625-69ed08a8bfad
+
+# Zadanie 10 Funkcje w chmurze
+
+Przygotuj 3 wybrane funkcje w JS oraz udostępnij w ramach usługi Azure
+Functions
+Przygotuj 3 wybrane funkcje w Haskellu w ramach Azure App Services.
+Wykorzystaj obraz dockerowy.
+
+Kod: [Link do zadania 10](https://github.com/GrubySamuraj/funkcyjne/tree/master/zad10/zad10)
+https://github.com/user-attachments/assets/e6e213e7-8b6b-467c-998f-aefec767ccb9
